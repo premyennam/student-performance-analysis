@@ -56,7 +56,8 @@ student-performance-analysis/
 ---
 
 ### Chart 1 — GPA Distribution (Histogram + KDE + Box Plot)
-![GPA Distribution](charts/chart_01_gpa_distribution.png)
+![GPA Distribution]<img width="1656" height="612" alt="image" src="https://github.com/user-attachments/assets/4c25be4c-694a-44c4-8018-10d2b717d30e" />
+
 > Shows the overall spread of student GPAs. The histogram with KDE curve reveals a roughly uniform distribution with mean ≈ 1.90 and median ≈ 1.92. The box plot highlights the interquartile range (IQR: ~1.2 – 2.6) and confirms no extreme outliers, though GPAs span the full 0–4 range.
 
 ---
