@@ -56,20 +56,22 @@ student-performance-analysis/
 ---
 
 ### Chart 1 — GPA Distribution (Histogram + KDE + Box Plot)
-![GPA Distribution]<img width="1656" height="612" alt="image" src="https://github.com/user-attachments/assets/4c25be4c-694a-44c4-8018-10d2b717d30e" />
+<img width="1656" height="612" alt="image" src="https://github.com/user-attachments/assets/4c25be4c-694a-44c4-8018-10d2b717d30e" />
 
 > Shows the overall spread of student GPAs. The histogram with KDE curve reveals a roughly uniform distribution with mean ≈ 1.90 and median ≈ 1.92. The box plot highlights the interquartile range (IQR: ~1.2 – 2.6) and confirms no extreme outliers, though GPAs span the full 0–4 range.
 
 ---
 
 ### Chart 2 — Grade Class Distribution (Bar + Pie)
-![Grade Class Distribution](charts/chart_02_grade_class.png)
+<img width="1466" height="612" alt="image" src="https://github.com/user-attachments/assets/9583eb80-bad4-4dbd-af08-a29ff435a337" />
+
 > Reveals a heavily skewed grade landscape — **52.2% of students score an F**, while only 3.1% achieve an A. The bar and pie charts together make it immediately clear that the majority of students are underperforming, signaling a systemic issue worth addressing.
 
 ---
 
 ### Chart 3 — Gender Analysis (Count + Violin)
-![Gender Analysis](charts/chart_03_gender.png)
+<img width="1656" height="612" alt="image" src="https://github.com/user-attachments/assets/6a43f83d-5c21-4156-b76f-4cdabe37096a" />
+
 > Compares the 482 male and 517 female students. The violin plots show nearly identical GPA distributions for both genders, confirming that **gender has minimal impact on academic performance** in this dataset. The shape of both violins is wide in the mid-range, reflecting the high concentration of Grades C–F.
 
 ---
