@@ -10,7 +10,7 @@
 student-performance-analysis/
 │
 ├── Student_Performance_Analysis.ipynb   ← Main Jupyter notebook
-├── Student_performance_data___csv.xlsx  ← Dataset (place here)
+├── Student_performance_data.xlsx  ← Dataset (place here)
 ├── requirements.txt                     ← Python dependencies
 └── README.md
 ```
